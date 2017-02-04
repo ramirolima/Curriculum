@@ -1,2 +1,2 @@
 # Curriculum
-teste :pizza:
+teste :pizza: 2
